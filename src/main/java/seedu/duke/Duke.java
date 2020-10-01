@@ -20,5 +20,6 @@ public class Duke {
 
         String haha = "ahaha";
         String lol = "lol";
+        String hi = "hi";
     }
 }
